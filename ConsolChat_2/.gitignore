@@ -1,0 +1,68 @@
+# =========================
+# Visual Studio
+# =========================
+
+.vs/
+*.VC.db
+*.VC.opendb
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+x86/
+build/
+out/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Compiled Object files
+*.obj
+*.o
+*.lo
+*.slo
+
+# Precompiled Headers
+*.pch
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.la
+*.dll
+*.so
+*.dylib
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# MacOS files
+.DS_Store
+
+# Backup files
+*.bak
+*.old
+
